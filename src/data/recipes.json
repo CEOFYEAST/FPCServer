@@ -275,6 +275,7 @@
       "category": "Production",
       "crafter-category": "assembler",
       "crafting-speed": 1.25,
+      "crafter-categories": ["assembler", "fluid-assembler"],
       "recipe": {
         "time": 0.5,
         "yield": 1,
