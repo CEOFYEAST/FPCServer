@@ -1519,6 +1519,7 @@
       "wiki_link": "https://wiki.factorio.com/Express_transport_belt",
       "category": "Logistics",
       "crafter-category": "fluid-assembler",
+      "throughput": 45,
       "recipe": {
         "time": 0.5,
         "yield": 1,
@@ -1623,6 +1624,7 @@
       "wiki_link": "https://wiki.factorio.com/Fast_transport_belt",
       "category": "Logistics",
       "crafter-category": "assembler",
+      "throughput": 30,
       "recipe": {
         "time": 0.5,
         "yield": 1,
@@ -4660,6 +4662,7 @@
       "wiki_link": "https://wiki.factorio.com/Transport_belt",
       "category": "Logistics",
       "crafter-category": "assembler",
+      "throughput": 15,
       "recipe": {
         "time": 0.5,
         "yield": 2,
