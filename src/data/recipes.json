@@ -2948,6 +2948,7 @@
       "wiki_link": "https://wiki.factorio.com/Pipe",
       "category": "Logistics",
       "crafter-category": "assembler",
+      "throughput": 100,
       "recipe": {
         "time": 0.5,
         "yield": 1,
