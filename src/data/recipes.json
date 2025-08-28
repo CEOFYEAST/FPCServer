@@ -2050,11 +2050,11 @@
         "ingredients": []
       }
     },
-    "high-tech-science-pack": {
-      "id": "high-tech-science-pack",
-      "name": "High tech science pack",
+    "utility-science-pack": {
+      "id": "utility-science-pack",
+      "name": "Utility science pack",
       "type": "Science pack",
-      "wiki_link": "https://wiki.factorio.com/High_tech_science_pack",
+      "wiki_link": "https://wiki.factorio.com/Utility_science_pack",
       "category": "Intermediate product",
       "crafter-category": "assembler",
       "recipe": {
@@ -3862,11 +3862,11 @@
         ]
       }
     },
-    "science-pack-2": {
-      "id": "science-pack-2",
-      "name": "Science pack 2",
+    "logistic-science-pack": {
+      "id": "logistic-science-pack",
+      "name": "Logistic science pack",
       "type": "Science pack",
-      "wiki_link": "https://wiki.factorio.com/Science_pack_2",
+      "wiki_link": "https://wiki.factorio.com/Logistic_science_pack",
       "category": "Intermediate product",
       "crafter-category": "assembler",
       "recipe": {
@@ -3884,11 +3884,11 @@
         ]
       }
     },
-    "science-pack-3": {
-      "id": "science-pack-3",
-      "name": "Science pack 3",
+    "chemical-science-pack": {
+      "id": "chemical-science-pack",
+      "name": "Chemical science pack",
       "type": "Science pack",
-      "wiki_link": "https://wiki.factorio.com/Science_pack_3",
+      "wiki_link": "https://wiki.factorio.com/Chemical_science_pack",
       "category": "Intermediate product",
       "crafter-category": "assembler",
       "recipe": {
